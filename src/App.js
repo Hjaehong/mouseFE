@@ -1,8 +1,8 @@
 // src/App.js
 
-import Header from './component/Header';
-import HomePage from './component/MainPage';
-import Footer from './component/Footer';
+import Header from './components/Header';
+import HomePage from './components/MainPage';
+import Footer from './components/Footer';
 
 function App() {
   return (
